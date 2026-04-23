@@ -1,1 +1,1 @@
-Dividimos as funções, o Felipe de Olíveira ficou com HTML e eu Ana Clara de Olíveira fazia o CSS.
+Dividimos as funções, eu Felipe de Olíveira fiquei com HTML e a Ana Clara de Olíveira ficou como CSS.
